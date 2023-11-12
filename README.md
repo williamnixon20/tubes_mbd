@@ -1,4 +1,4 @@
-# Tugas besar WBD
+# Tugas besar MBD
 Tugas ini menggunakan CMSC828N: Assignment 2 sebagai referensi.
 https://github.com/kunrenyale/CMSC828N_assignment2/tree/master
 
